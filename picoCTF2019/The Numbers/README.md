@@ -20,7 +20,7 @@ The flag is in the format PICOCTF{}
 
   1.The hint means a lot here. Starting Alphabates of our Flag is PICOCTF.
 
-  2.Comparing it with the digits given in the png FILE. we can conclude, they have assgined the numbers from 1-26 to A-Z.
+  2.Comparing it with the digits given in the png FILE. we can conclude, they have assgined the numbers from 1-26 to A-Z. OR if you are lazy, i have one python based tool for you: https://github.com/Amangondaliya555/PyA1Z26.git
    
   3.Just decode the digits accordingly.
   
