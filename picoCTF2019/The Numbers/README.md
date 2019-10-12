@@ -1,20 +1,17 @@
-# Project Title
+# The Numbers
 
-One Paragraph of project description goes here
+Points:50
 
-## Getting Started
+## Question:
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The numbers... what do they mean?
 
-### Prerequisites
+## Hint:
 
-What things you need to install the software and how to install them
+The flag is in the format PICOCTF{}
 
-```
-Give examples
-```
 
-### Installing
+# Solution:
 
 A step by step series of examples that tell you how to get a development env running
 
