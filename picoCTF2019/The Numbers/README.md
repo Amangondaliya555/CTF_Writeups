@@ -4,7 +4,10 @@ Points:50
 
 ## Question:
 
+```
 The numbers... what do they mean?
+```
+
 
 ## Hint:
 
