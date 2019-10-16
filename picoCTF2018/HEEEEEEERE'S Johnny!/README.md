@@ -34,7 +34,7 @@ Okay, so we found some important looking files on a linux computer. Maybe they c
   the above steps we already got a username and password. Here username will be "root", and password maybe different for   
   different users.for me it was: password1 
   
-  6. Use the credentials  and there you got a flag! :)
+  6.Use the credentials  and there you got a flag! :)
 
 ## Flag:
 
