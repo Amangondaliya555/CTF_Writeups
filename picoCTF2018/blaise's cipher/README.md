@@ -23,15 +23,13 @@ My buddy Blaise told me he learned about this cool cipher invented by a guy also
   
   2.After connecting to it, we got a long senseless paragraphs.
   
-  3.It is nothing but actually encrypted. By observation, we can say it is either a caesar cipher or a vigenere cipher.
-  
-  4.But the title of the question is blaise's cipher. Which is a name of the inventor of Vigenere cipher.So those paragraphs are  
+  3.But the title of the question is blaise's cipher. Which is a name of the inventor of Vigenere cipher.So those paragraphs are  
   encrypted using vigenere cipher.
   
-  5.Command line tools may have some issues due to long paragraphs and also we dont know the key. So we can use other online 
+  4.Command line tools may have some issues due to long paragraphs and also we dont know the key. So we can use other online 
   tools. For ex: https://www.mygeocachingprofile.com/codebreaker.vigenerecipher.aspx
   
-  6.Using this tool, you will get lots of solutions with different key. You will have do random search. You will find the key in 
+  5.Using this tool, you will get lots of solutions with different key. You will have do random search. You will find the key in 
   decrypted paragraph with key = 277.
 
 ## Flag:
