@@ -23,7 +23,7 @@ Points:250
   2.Hint says, it is encrypted into a form of a caesar cipher. Also the file given does not contain only alphabates so we can not 
   use caesar cipher.
   
-  3.But we can use its form ROT which will simpy rotate the ciphertext according to ascii characters and give us a 
+  3.But as we can use its form ROT which will simpy rotate the ciphertext according to ascii characters and give us a 
   plain text. we can use this online tool: https://www.dcode.fr/rot-cipher
   
   
