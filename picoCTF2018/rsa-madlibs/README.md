@@ -1,33 +1,39 @@
-# The Numbers
+# rsa-madlibs
 
-Points:50
+Points:250
 
 ## Question:
 
 ```
-The numbers... what do they mean?
+We ran into some weird puzzles we think may mean something, can you help me solve one? Connect with nc 2018shell.picoctf.com 50652
 ```
 
 
 ## Hint:
 
 ```
-The flag is in the format PICOCTF{}
+RSA info. Link : https://simple.wikipedia.org/wiki/RSA_algorithm
 ```
 
 
 # Solution:
 
-  1.The hint means a lot here. Starting Alphabates of our Flag is PICOCTF.
-
-  2.Comparing it with the digits given in the png FILE. we can conclude, they have assgined the numbers from 1-26 to A-Z.
-   
-  3.Just decode the digits accordingly.
+  1.Here, i cant help you too much, but the link given in the hint can. 
   
-  4.Take care while submitting a flag. Sometimes, Flag format sucks.
+  2.Go through that link and learn how RSA works.
+  
+  3.After knowing basics of RSA, you can answer all the questions which will appear when you will connect to the given port through 
+  the terminal.
+  
+  4.For few questions you may need this tool to find some values : https://github.com/mzfr/ctf-writeups/blob/master/picoCTF-
+  2018/Cryptography/rsa-madlibs/calculate-d.py
+  
+  5.Also you will have to use pow function of python to calculate few values.
+  
+  NOTE : This is temporary solution. To make things easier, i am making one rsa tool to make your job even easier.
 
 ## Flag:
 
 ```
-PICOCTF{THENUMBERSMASON}
+picoCTF{d0_u_kn0w_th3_w@y_2_RS@_5d383e10}
 ```
